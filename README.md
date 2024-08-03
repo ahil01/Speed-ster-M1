@@ -110,7 +110,7 @@ Core FDM printer with Multi-Material and Multi-Color support can print upto 400m
 - ![Presenting - PowerPoint 8_4_2024 1_19_43 AM](https://github.com/user-attachments/assets/dfde5983-fd69-4eb1-8711-839d7a1eca0c)
 
 - # MORE DETAILED PPT ABOUT MACHINE:
-- ## https://github.com/ahil01/Speed-ster-M1/tree/main/
+https://github.com/ahil01/Speed-ster-M1/tree/main/PPT_Printer
 
 
 
