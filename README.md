@@ -73,6 +73,41 @@ Core FDM printer with Multi-Material and Multi-Color support can print upto 400m
 - **User-Friendly Tuning:** Both features are highly customizable, allowing users to fine-tune their printer settings for optimal performance.
 - 
 ![adxl-Photoroom](https://github.com/user-attachments/assets/1ad99ed4-82cf-45c1-85b9-eab6eadec07a)![12](https://github.com/user-attachments/assets/1c812c26-e4d9-4d4f-8182-6e08471543d9)
+**Powerfull MKS Monster 8 with Raspberry Pi 4 and Klipper:**
+
+- **Powerful Performance:** The combination of MKS Monster 8 and Raspberry Pi 4 delivers robust processing power, ensuring smooth and efficient printer operation.
+- **Advanced Control:** Klipper firmware enhances control precision, allowing for more accurate and detailed prints.
+- **Seamless Integration:** The setup offers seamless integration and communication between the control board and the Raspberry Pi, optimizing print management.
+- **Real-Time Monitoring:** Enables real-time monitoring and adjustments, providing users with greater control and flexibility during the printing process.
+- **Enhanced Customization:** Klipper’s open-source nature allows for extensive customization, enabling users to tailor the firmware to their specific needs.
+- **Future-Proof Technology:** Utilizing state-of-the-art components ensures compatibility with future updates and advancements in 3D printing technology.
+
+
+![14](https://github.com/user-attachments/assets/e514cd93-2b30-48f7-aa3c-86bd8f638e94)
+
+![rasp](https://github.com/user-attachments/assets/998ec85c-f3b4-4b84-a8b9-7f711a08c624)
+**Equip with TMC 2225 Silent Drivers:**
+
+- **Quiet Operation:** TMC 2225 drivers significantly reduce noise during printing, providing a much quieter working environment.
+- **Smooth Motion:** Ensures smooth and precise motor movements, enhancing the overall quality of prints.
+- **High Efficiency:** Improves the efficiency of the printer’s motors, leading to better performance and longer motor life.
+- **Reduced Heat Generation:** Efficiently manages heat dissipation, reducing the risk of overheating and ensuring stable operation.
+- **Easy Configuration:** Offers straightforward configuration and tuning options, making it accessible for users of all experience levels.
+- **Improved Reliability:** Increases the reliability of the printer by minimizing vibrations and mechanical stress on the components.
+![NEW_PRESENTATION1 pdf - Work - Microsoft​ Edge 8_3_2024 11_19_51 PM](https://github.com/user-attachments/assets/e01d3d01-8901-45cb-9e20-c72645a0ee23)
+**Control Printer From Anywhere:** Throgh Cloud softwares.
+![NEW_PRESENTATION1 pdf - Work - Microsoft​ Edge 8_3_2024 11_20_04 PM](https://github.com/user-attachments/assets/0bdee0b3-1feb-4613-8304-be30971e865a
+**Camera Raspberry Pi Rev 1.3 Equipped:**
+
+- **Real-Time Monitoring:** Provides live video feed of the print process, allowing users to monitor progress and catch issues as they happen.
+- **Automatic Failure Detection:** Klipper's integration with the camera enables automatic detection of print failures, such as spaghetti or misprints, for timely intervention.
+- **Remote Access:** Allows users to view and control their prints from anywhere using Klipper’s cloud-based features, enhancing convenience and oversight.
+- **Enhanced Debugging:** Facilitates troubleshooting by providing visual evidence of issues, helping users to quickly identify and resolve printing problems.
+- **Improved Print Quality:** Enables closer inspection of prints in progress, allowing for adjustments and improvements to achieve higher-quality results.
+- **Integration with Other Tools:** Works seamlessly with Klipper's firmware and cloud services to provide a cohesive and advanced printing experience.
+![NEW_PRESENTATION1 pdf - Work - Microsoft​ Edge 8_3_2024 11_20_13 PM](https://github.com/user-attachments/assets/73f93fda-1713-439b-ba9e-eadccf309a63
+- **Apps Support for Cloud and Controlling printer from Anywhere:**
+- ![Presenting - PowerPoint 8_4_2024 1_19_43 AM](https://github.com/user-attachments/assets/dfde5983-fd69-4eb1-8711-839d7a1eca0c)
 
 
 
