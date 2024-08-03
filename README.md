@@ -28,8 +28,51 @@ An all-metal frame provides exceptional stability and durability, reducing vibra
 ![13](https://github.com/user-attachments/assets/ed56b0a7-1a64-4300-b210-a1f56b329a8a)
 ## PRINTING SPEED:
 Core FDM printer with Multi-Material and Multi-Color support can print upto 400mm/s.
-- **10 mm Linear Rod:** x axis 10 mm , y axis 12 mm and z axis 8mm linear Rod.
+- **Linear Rods:** x axis 10 mm , y axis 12 mm and z axis 8mm linear Rod.
 ![2](https://github.com/user-attachments/assets/04b77a31-8c9e-4c3b-a640-775e3d73d35c)
 ## FIRMWARE OPEN SOURCE KLIPPER:
 
 ![5](https://github.com/user-attachments/assets/ce0798b7-a3f8-4ad3-b9dc-914d8db09e16)
+**Dual Z Motors:**
+
+- **Enhanced Stability:** Provides balanced and stable movement of the build plate, reducing wobbling and tilting during printing.
+- **Improved Print Accuracy:** Synchronized motors ensure higher precision and consistency, especially for taller prints.
+- **Reduced Layer Shifts:** Minimizes the risk of layer shifts and misalignments, ensuring accurate layer positioning.
+- **Smoother Movements:** Enables smoother and more controlled vertical movements, contributing to better overall print quality.
+![3](https://github.com/user-attachments/assets/bc4a548a-0e2d-453c-95dd-14914ab0f2f1)
+**Enraged Rabbit Multi-Color and Multi-Material FREE WITH PRINTER:**
+
+- **Versatile Printing:** Supports simultaneous printing with up to 8 different colors and materials, providing unparalleled versatility.
+- **Expanded Creativity:** Enables complex and colorful designs, allowing for more creative and intricate projects.
+- **Seamless Transitions:** Ensures smooth and precise transitions between different colors and materials, enhancing the overall print quality.
+- **Customizable Combinations:** Offers the flexibility to mix and match various materials, such as PLA, ABS, TPU, and more, within a single print.
+- **Enhanced Efficiency:** Reduces the need for multiple printers or manual color changes, streamlining the production process.
+- **Free With SPEED-STERM1:** Provides high-end multi-color and multi-material printing capabilities at a budget-friendly price.
+
+
+![6](https://github.com/user-attachments/assets/aabe64a0-ffc6-4f50-bd82-88ca0238cfd2)
+![8](https://github.com/user-attachments/assets/b084a5ad-30c2-43a9-94e9-397e972abe63)
+**Auto Bed Leveling:**
+
+- **Improved Print Quality:** Ensures a perfectly level print bed, leading to better adhesion and more accurate prints.
+- **Reduced Setup Time:** Eliminates the need for manual bed leveling, saving time and effort before each print.
+- **Consistent Results:** Provides consistent and reliable bed leveling across multiple prints, reducing the risk of print failures.
+- **Enhanced Ease of Use:** Simplifies the printing process, making it more user-friendly, especially for beginners.
+- **Adaptable to Surface Variations:** Automatically adjusts for minor imperfections or warping in the print bed, maintaining optimal print conditions.
+- **Increased Printer Lifespan:** Reduces wear and tear on the printer’s components by maintaining proper bed alignment, extending the machine’s durability.
+
+![10](https://github.com/user-attachments/assets/5d9cee4b-a7f8-4f39-aace-fea62cced835)
+![auto](https://github.com/user-attachments/assets/dc68c053-deb3-4151-ab00-5f798dd1e8d4)
+**Input Shaping and Pressure Advance:**
+
+- **Enhanced Print Quality:** Reduces ghosting and ringing effects, leading to smoother and more precise prints.
+- **Improved Speed:** Allows for higher printing speeds without sacrificing print accuracy or quality.
+- **Consistent Extrusion:** Pressure advance ensures a consistent flow of filament, minimizing issues like over-extrusion or under-extrusion.
+- **Optimized Motion Control:** Input shaping optimizes the printer’s motion control, reducing vibrations and improving overall print stability.
+- **Increased Reliability:** Provides more reliable and repeatable print results by compensating for mechanical limitations and imperfections.
+- **User-Friendly Tuning:** Both features are highly customizable, allowing users to fine-tune their printer settings for optimal performance.
+- 
+![adxl-Photoroom](https://github.com/user-attachments/assets/1ad99ed4-82cf-45c1-85b9-eab6eadec07a)![12](https://github.com/user-attachments/assets/1c812c26-e4d9-4d4f-8182-6e08471543d9)
+
+
+
