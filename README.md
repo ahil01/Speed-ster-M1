@@ -23,3 +23,13 @@ Our locally manufactured printer addresses common shortcomings in the market, in
 
 ![a1](https://github.com/user-attachments/assets/9335e706-0ef0-4d1a-83d2-29ad2fab7455)
 
+## ALL METAL LIGHT WEIGHT FRAME MAKE PRINTER PORTABLE:
+An all-metal frame provides exceptional stability and durability, reducing vibrations for improved print quality. The robust construction ensures long-term reliability and precision, allowing for faster printing speeds without compromising accuracy. Additionally, the metal frame's rigidity enhances overall machine performance, making it ideal for high-precision and high-speed 3D printing applications
+![13](https://github.com/user-attachments/assets/ed56b0a7-1a64-4300-b210-a1f56b329a8a)
+## PRINTING SPEED:
+Core FDM printer with Multi-Material and Multi-Color support can print upto 400mm/s.
+- **10 mm Linear Rod:** x axis 10 mm , y axis 12 mm and z axis 8mm linear Rod.
+![2](https://github.com/user-attachments/assets/04b77a31-8c9e-4c3b-a640-775e3d73d35c)
+## FIRMWARE OPEN SOURCE KLIPPER:
+
+![5](https://github.com/user-attachments/assets/ce0798b7-a3f8-4ad3-b9dc-914d8db09e16)
