@@ -3,8 +3,8 @@ My Repo:https://github.com/EtteGit/EnragedRabbitProject # This version 1
 My Repo : https://github.com/ahil01/ERCF_v2 # This is Version 2
 
 Original links:
-https://github.com/ahil01/EnragedRabbitProject
-https://github.com/Enraged-Rabbit-Community/ERCF_v2
+https://github.com/ahil01/EnragedRabbitProject # Version 1
+https://github.com/Enraged-Rabbit-Community/ERCF_v2 # Version 2
 
 
 
